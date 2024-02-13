@@ -1,2 +1,2 @@
 # first_demo1
-first git
+first repository in git hub
